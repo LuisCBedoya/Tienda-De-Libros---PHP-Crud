@@ -1,0 +1,27 @@
+{
+   "name": "lmbookshop/tienda-online",
+   "description": "creacion de una tienda online",
+   "type": "project",
+   "license": "MIT",
+   "authors": [
+       {
+           "name": "Luis Carlos R Bedoya Andocilla"
+          
+       },
+       {
+           "name": "Mandy Gonzales casillas"
+       },
+       {
+           "name": "Aldair Sossa"
+
+       }
+   ],
+   "require": {
+       
+   },
+   "autoload": {
+       "psr-4": {
+           "LMBookShop\\":"src/"
+       }
+   }
+}
